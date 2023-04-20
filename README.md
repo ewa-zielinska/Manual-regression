@@ -2,7 +2,7 @@ Link to the tested website: [link](https://qa-autocheck-test.netlify.app/?token=
 
 Link to the documentation: [link](https://faq-qa.m.goit.global/pl/components-and-functionality/header)
 
-Firstly, I've read the documentation, then I've explored the service. Based on that I designed 10 test cases which are covering the most important functionalities of this website. They can be used to perform manual regression cycles. I've been using ZephyrScale tool integrated with my JIRA project to create those cases. I've exported all 10 test cases to test_cases.xlsx excel file and they can be download from this repository. I've also attached a few screenshots of test cases directly from the ZephyrScale for reference:
+Initially, I examined the provided documentation, followed by an in-depth exploration of the service. Subsequently, I devised a set of 10 comprehensive test scenarios, encompassing the most crucial aspects of the website's functionality. These test scenarios can be employed for manual regression testing cycles. To accomplish this, I utilized the ZephyrScale tool, seamlessly integrated with my JIRA project, to develop these cases. The 10 test cases have been compiled into a test_cases.xlsx Excel file, which is readily accessible for download within this repository. Additionally, for your convenience, I have attached several illustrative screenshots of the test cases taken directly from ZephyrScale:
 ![5](https://user-images.githubusercontent.com/131160264/232775607-1f6a48c9-095e-45a7-8824-d42aaeddfca7.png)
 ![1](https://user-images.githubusercontent.com/131160264/232775617-4864cc77-0acc-4e31-864c-0890547c1bcd.png)
 ![2](https://user-images.githubusercontent.com/131160264/232775622-a136a9b0-91e4-461d-a75d-db9f2cf951e6.png)
