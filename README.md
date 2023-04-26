@@ -3,8 +3,9 @@ Link to the tested website: [link](https://qa-autocheck-test.netlify.app/?token=
 Link to the documentation: [link](https://faq-qa.m.goit.global/pl/components-and-functionality/header)
 
 Initially, I examined the provided documentation, followed by an in-depth exploration of the service. Subsequently, I devised a set of 10 comprehensive test scenarios, encompassing the most crucial aspects of the website's functionality. These test scenarios can be employed for manual regression testing cycles. To accomplish this, I utilized the ZephyrScale tool, seamlessly integrated with my JIRA project, to develop these cases. The 10 test cases have been compiled into a test_cases.xlsx Excel file, which is readily accessible for download within this repository. Additionally, for your convenience, I have attached several illustrative screenshots of the test cases taken directly from ZephyrScale:
-![5](https://user-images.githubusercontent.com/131160264/232775607-1f6a48c9-095e-45a7-8824-d42aaeddfca7.png)
-![1](https://user-images.githubusercontent.com/131160264/232775617-4864cc77-0acc-4e31-864c-0890547c1bcd.png)
-![2](https://user-images.githubusercontent.com/131160264/232775622-a136a9b0-91e4-461d-a75d-db9f2cf951e6.png)
-![3](https://user-images.githubusercontent.com/131160264/232775626-a6e5f08f-c7a6-4eff-8c23-1463583a0dd4.png)
-![4](https://user-images.githubusercontent.com/131160264/232775630-6e1b1bae-e3c1-4652-99be-4035bde6881b.png)
+![TC4](https://user-images.githubusercontent.com/131160264/234547633-d87e01b7-9845-4f20-b146-c5e0f33d2a63.png)
+![TC7](https://user-images.githubusercontent.com/131160264/234547619-e4c2fdca-28cc-4073-b10f-a88f357f592c.png)
+![TC8](https://user-images.githubusercontent.com/131160264/234547624-bc0af382-8a58-4989-8cac-28225641f928.png)
+![TC10](https://user-images.githubusercontent.com/131160264/234547626-6aa62710-2b1f-427f-8ce1-f0aecd912dd1.png)
+![TC11](https://user-images.githubusercontent.com/131160264/234547630-e7f95f00-c175-4c86-86a5-f600cafc5104.png)
+
